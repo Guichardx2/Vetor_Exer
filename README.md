@@ -13,7 +13,7 @@ Um programa simples usando a API Arraylist trabalhando com um CRUD em um vetor d
   
 - `Funcionalidade 3`: Escolher um produto pela sua posição ou pelo número e excluí-lo;
   
-- `Funcionalidade 4`: Visualizar sua lista;
+- `Funcionalidade 4`: Visualizar sua lista/vetor;
   
 - `Funcionalidade 5`: Sair e encerrar o programa;
 
@@ -24,4 +24,5 @@ Um programa simples usando a API Arraylist trabalhando com um CRUD em um vetor d
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java)
 
 # Autores
-[<img src="https://avatars.githubusercontent.com/u/130867213?v=4" width=115><br><sub>Jean Charles Guichard Guichard</sub>](https://github.com/Guichardx2) | [<img src="https://avatars.githubusercontent.com/u/122396148?v=4" width=115><br><sub>Vitor Henrique</sub>](https://github.com/Deatroke)
+| [<img src="https://avatars.githubusercontent.com/u/130867213?v=4" width=115><br><sub>Jean Charles Guichard Guichard</sub>](https://github.com/Guichardx2) |  [<img src="https://avatars.githubusercontent.com/u/122396148?v=4" width=115><br><sub>Vitor Henrique</sub>](https://github.com/Deatroke) |
+| :---: | :---: |
